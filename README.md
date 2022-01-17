@@ -24,4 +24,6 @@ El objecto de este documento es nombrar y describir de una manera sencilla los c
 - `git config --list` (Comando para visualizar una lista de configuración de git en tú proyecto)
 - `git config --global user.name "user name"` (Comando para actualizar el usuario que tiene registrado en git en tu inicializados de local, este nombre va en los commit que se realiza)
 - `git config --global user.email "tuberquia2115@gmail.com"` (Comando para actualizar el correo electronico que está registrado en la inicialización de tu proyecto local)
+- `git stash` (Comando que permite guardar los cambios en un espacio de git, sin necesidad de realizar un commit.)
+- `git stash pop`(Comando que te permite sacar los cambios guardado en ese espacio de git, despues de que ya hayas realizado otros cambios)
 
