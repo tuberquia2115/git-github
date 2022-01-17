@@ -15,4 +15,6 @@ El objecto de este documento es nombrar y describir de una manera sencilla los c
 `git reset (commit) --hard(Eliminar los cambios realizados) o --soft(Separa los cambios)`
 - `git push origin` (Nombre de la rama)
 - `git pull origin` (Nombre de la rama, de donde quiere bajar los cambios)
+- `git checkout <name branch>` (Este comando sirve para cambiar de rama)
+- `git branch` (Este comando sirve para mostrar las ramas creadas)
 
