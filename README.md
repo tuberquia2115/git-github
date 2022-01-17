@@ -16,3 +16,4 @@ El objecto de este documento es nombrar y describir de una manera sencilla los c
 - `git push origin` (Nombre de la rama)
 - `git pull origin` (Nombre de la rama, de donde quiere bajar los cambios)
 - `git restore --staged <archivo>..` (Paara sacar del area de stage)
+- `git `
