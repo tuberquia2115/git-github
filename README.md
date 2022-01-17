@@ -17,4 +17,4 @@ El objecto de este documento es nombrar y describir de una manera sencilla los c
 - `git pull origin` (Nombre de la rama, de donde quiere bajar los cambios)
 - `git checkout <name branch>` (Este comando sirve para cambiar de rama)
 - `git branch` (Este comando sirve para mostrar las ramas creadas)
-
+- `git restore --staged <archivo>..` (Paara sacar del area de stage)
