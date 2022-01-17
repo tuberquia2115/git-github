@@ -18,3 +18,5 @@ El objecto de este documento es nombrar y describir de una manera sencilla los c
 - `git checkout <name branch>` (Este comando sirve para cambiar de rama)
 - `git branch` (Este comando sirve para mostrar las ramas creadas)
 - `git restore --staged <archivo>..` (Paara sacar del area de stage)
+- `git commit -am "message"` (Este comando sirve para realizar dos acciones al mismo tiempo, tanto como agregar los cambios a stage, y realizar commit del cambio)
+- `git merge <name branch> ` (Este comando sirve para fusionar dos branchs)
